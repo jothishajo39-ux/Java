@@ -44,6 +44,3 @@ README.md — This file
 - Swing (javax.swing) for GUI
 - AWT (java.awt) for layout and events
 
----
-
-இதை paste பண்ணி கடைசில **"Commit changes"** click பண்ணுங்க.
